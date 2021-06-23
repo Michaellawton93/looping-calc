@@ -2,7 +2,7 @@
 
 Brief:
 
-Looping calculator writes a program in Python which performs the calculations detailed below. However, only the arithmetic operation of “+” is used. The substraction operator "-" is technically used but only to negate values. 
+Looping calculator writes a program in Python which performs the calculations detailed below. However, only the arithmetic operation of “+” is used. The substraction operator "-" is technically used but only to negate values. Boolean operators are also used. 
 
 The program first enters into a main menu, giving the user a choice of entering the number "1" , "2", "3", or “4” . Entering the character "q" exits the program.
 
